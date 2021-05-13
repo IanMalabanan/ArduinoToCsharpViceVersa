@@ -1,0 +1,9 @@
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\bin\Debug\ArduinoToCsharpViceVersa.exe.config
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\bin\Debug\ArduinoToCsharpViceVersa.exe
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\bin\Debug\ArduinoToCsharpViceVersa.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\obj\Debug\ArduinoToCsharpViceVersa.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\obj\Debug\ArduinoToCsharpViceVersa.Form1.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\obj\Debug\ArduinoToCsharpViceVersa.Properties.Resources.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\obj\Debug\ArduinoToCsharpViceVersa.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\obj\Debug\ArduinoToCsharpViceVersa.exe
+C:\Users\ian.malabanan\Desktop\ISOAP\ArduinoToCsharpViceVersa\ArduinoToCsharpViceVersa\obj\Debug\ArduinoToCsharpViceVersa.pdb
