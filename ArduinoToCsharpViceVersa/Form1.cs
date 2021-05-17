@@ -60,7 +60,7 @@ namespace ArduinoToCsharpViceVersa
                 port.StopBits = StopBits.One;
 
                 port.ReceivedBytesThreshold = 1;
-
+                
                 port.DtrEnable = true;
 
                 port.RtsEnable = true;
